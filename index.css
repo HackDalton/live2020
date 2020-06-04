@@ -1,19 +1,5 @@
-.main-body {
-	min-height: calc(100vh - 3.25rem);
-}
-
-.navbar {
-	margin-bottom: 12px;
-}
-
-.main-body .column {
-	padding: 0;
-	margin: 0;
-}
-
-.is-yt-player {
-	width: 100%;
-	height: 100%
+body {
+	font-family: 'Lato', sans-serif;
 }
 
 :root {
